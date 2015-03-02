@@ -1,0 +1,2 @@
+\\psf\Home\Documents\GitHub\bi\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\psf\Home\Documents\GitHub\baris_ilker\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
